@@ -1,3 +1,7 @@
+
+
+https://github.com/NiccoloBalestrieri/TropiViz/assets/92525345/f2a2f319-cb92-4db2-aaa1-1e6cb3d26353
+
 # TropiViz - Data Visualization
 
 > 🚀 I've just created a data visualization application using Dash! 📊
