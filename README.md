@@ -9,13 +9,13 @@ I'm proud to introduce TropiViz: Understand Your Data, an application I've devel
 
 ## Table of contents
 - 📂[Data Loading](#data-loading-)
-- 
+
 - 📅[Date Range Selection](#data-range-selection-)
--
+
 - 📈[Interactive Charts](#interactive-charts-)
-- 
+ 
 - 📋[Data Table](#data-table-)
-- 
+ 
 - 🔄[Reset Dates](#reset-dates-)
       
 ## 📂 Data Loading
