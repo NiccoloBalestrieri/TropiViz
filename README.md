@@ -5,10 +5,6 @@ I'm proud to introduce TropiViz: Understand Your Data, an application I've devel
 
 https://github.com/NiccoloBalestrieri/TropiViz/assets/92525345/875bd759-13eb-481d-bef0-6b5c27bc5731
 
-<p align="center">
-https://github.com/NiccoloBalestrieri/TropiViz/assets/92525345/426e9c93-7e33-4e4c-b237-be78638ce9da
-</p>
-
 ## Table of contents
 - 📂[Data Loading](#data-loading-)
 
