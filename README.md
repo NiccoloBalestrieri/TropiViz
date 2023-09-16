@@ -9,9 +9,7 @@ I'm proud to introduce TropiViz: Understand Your Data, an application I've devel
 
 
 <p align="center">
-<video width="500" height="500" controls>
-  <source src="./Tutorial.mp4" type="video/mp4">
-</video>
+https://github.com/NiccoloBalestrieri/TropiViz/assets/92525345/a8b117a2-0ac2-4ee7-9bab-28437cc221f6
 </p>
 
 
