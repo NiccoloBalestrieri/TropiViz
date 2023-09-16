@@ -7,6 +7,16 @@ I'm proud to introduce TropiViz: Understand Your Data, an application I've devel
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210705144258/What-is-Data-Visualization-and-Why-is-It-Important.png" align="center" width="500">
 </p>
 
+
+<p align="center">
+<video width="500" height="500" controls>
+  <source src="https://github.com/NiccoloBalestrieri/TropiViz/blob/main/Tutorial.mp4" type="video/mp4">
+</video>
+</p>
+
+
+
+
 ## Table of contents
 - 📂[Data Loading](#data-loading-)
 
