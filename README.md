@@ -10,7 +10,7 @@ I'm proud to introduce TropiViz: Understand Your Data, an application I've devel
 
 <p align="center">
 <video width="500" height="500" controls>
-  <source src="https://github.com/NiccoloBalestrieri/TropiViz/blob/main/Tutorial.mp4" type="video/mp4">
+  <source src="./Tutorial.mp4" type="video/mp4">
 </video>
 </p>
 
