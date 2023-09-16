@@ -1,10 +1,14 @@
+
+
+https://github.com/NiccoloBalestrieri/TropiViz/assets/92525345/875bd759-13eb-481d-bef0-6b5c27bc5731
+
 # TropiViz - Data Visualization
 
 > 🚀 I've just created a data visualization application using Dash! 📊
 I'm proud to introduce TropiViz: Understand Your Data, an application I've developed to simplify the analysis of time-series data from CSV files. The entire source code is written in **Python**.
 
 <p align="center">
-[<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210705144258/What-is-Data-Visualization-and-Why-is-It-Important.png" align="center" width="500">](https://github.com/NiccoloBalestrieri/TropiViz/assets/92525345/426e9c93-7e33-4e4c-b237-be78638ce9da)
+https://github.com/NiccoloBalestrieri/TropiViz/assets/92525345/426e9c93-7e33-4e4c-b237-be78638ce9da
 </p>
 
 ## Table of contents
